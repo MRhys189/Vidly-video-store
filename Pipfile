@@ -9,6 +9,7 @@ verify_ssl = true
 requests = "*"
 django = "==2.1.5"
 pylint-django = "*"
+django-tastypie = "*"
 
 [requires]
 python_version = "3.8"
